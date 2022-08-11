@@ -1,9 +1,9 @@
 displayName: Loudustry
 name: ow-my-ears
 subtitle: VERY LOUD WARNING!
-description: "Makes sounds louder.\nDoes not apply to musics.\nVERY LOUD WARNING!"
+description: "Makes sounds louder.\n\nVERY LOUD WARNING!"
 author: Mythril
-version: 1.0.0
+version: 1.0.1
 minGameVersion: 137
 hidden: true
 repo: Mythril382/Loudustry
