@@ -3,7 +3,7 @@ name: ow-my-ears
 subtitle: VERY LOUD WARNING! SERIOUSLY!
 description: "Makes sounds and musics louder.\n\nVERY LOUD WARNING! SERIOUSLY!"
 author: Mythril
-version: 1.0.1
+version: 1.2.0
 minGameVersion: 137
 hidden: true
 repo: Mythril382/Loudustry
